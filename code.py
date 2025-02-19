@@ -4,7 +4,7 @@ from email.mime.text import MIMEText
 
 # Sender and receiver details
 sender_email = "astlejoe789@gmail.com"
-receiver_email = "yasvanth178@gmail.com"
+receiver_email = "sibhiraaj12@gmail.com"
 password = "Enter your password"  # Use App Password for security
 
 # Create the email message
